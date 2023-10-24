@@ -1,5 +1,8 @@
 # Three.js Journey
 
+## Live Demo
+https://3d-6cubes-p7cft6lj7-ti-buis-projects.vercel.app/
+
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
@@ -10,7 +13,3 @@ npm install
 
 # Run the local server at localhost:8080
 npm run dev
-
-# Build for production in the dist/ directory
-npm run build
-```
